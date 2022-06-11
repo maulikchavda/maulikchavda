@@ -6,16 +6,16 @@
 
 
  **Web**  
- HTML, CSS, SCSS, Bootstrap, Javascript, Typescript
+ HTML, CSS, SCSS, Bootstrap, Tailwind CSS, Javascript, Typescript
 
  **Libraries**  
- React, Redux
+ ReactJS, Redux
 
  **FrameWork**  
  NextJS
  
 **Other**  
- Git, Github, Agile Mehodologies(JIRA)
+ Git, Github, Agile Mehodologies(JIRA), Postman
 
 #### Connect With Me here:
 
